@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @acevedod1974
-- 👀 I’m interested in Blockchaine and Crypto
+- 👀 I’m interested in Blockchain and Crypto
 - 🌱 I’m currently learning Arduino & ESP32 Programming
 - 📫 How to reach me @d_acv2 on Twitter
 
