@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acevedod1974
-- 👀 I’m interested in Blockchain and Crypto
-- 🌱 I’m currently learning Arduino & ESP32 Programming
+- 👀 I’m interested in AI & Machine Learning
+- 🌱 I’m currently learning Automations & Programming
 - 📫 reach me @acevedod1974 on Twitter
 
 <!---
