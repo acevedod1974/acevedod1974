@@ -1,4 +1,4 @@
-# Daniel Acevedo Lopez (@acevedod1974)
+# Daniel Acevedo Lopez [@acevedod1974](https://github.com/acevedod1974)
 
 Hi, I'm currently at the UNEXPO (Universidad Nacional Experimental Politécnica Antonio José de Sucre), where I teach the courses "Procesos de Fabricación 1" and "Procesos de Fabricación 2".
 
@@ -31,6 +31,6 @@ Here are some of the projects and contributions I am involved in:
 
 ## Contact
 
-Feel free to reach ouSt to me via email at [dacevedo@unexpo.edu.ve](mailto:dacevedo@unexpo.edu.ve) or connect with me on [LinkedIn](#).
+Feel free to reach ouSt to me via email at [dacevedo@unexpo.edu.ve](mailto:dacevedo@unexpo.edu.ve) or connect with me on [LinkedIn](https://www.linkedin.com/in/acevedod1974/).
 
 Thank you for visiting my GitHub page!
